@@ -24,3 +24,7 @@ From that moment on, .meta will pick up and show your driver when browsing "Core
 If you have any change, just follow the same update-process, creating a pull-request to update the Library.
 Once the pull-request is honored, you changed driver will be available in .meta CoreLibrary.
 
+##WHY?
+We would like to decouple driver development and .meta development. 
+Until now, every change to a driver had to wait for the creaion of a new .meta package. 
+Now changes can be made on the fly, only requiring a pull-request and honoring of that request.
