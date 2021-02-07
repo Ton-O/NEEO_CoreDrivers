@@ -1,4 +1,3 @@
-var CoreDrivers = 
 {"driver":
   [
     {
@@ -7,8 +6,11 @@ var CoreDrivers =
     "version":2,
     "DriverLocation":"https://raw.githubusercontent.com/jac459/meta-kodi/main/Meta%20custom%20driver/KODI.json",
     "Images":[  {"name":"KODI.jpg"},
+                {"name":"Checkmark.jpg"},
+                {"name":"Checkmark.jpg"},
                 {"name":"Folder.jpg"},
-                {"name":"File.jpg"}
+                {"name":"Checkmark.jpg"},
+                                {"name":"File.jpg"}
             ],
     "OrgRepo":"https://github.com/jac459/meta-kodi"
     },
